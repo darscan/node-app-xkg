@@ -1,0 +1,22 @@
+{
+  "name": "app-xkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darscan/node-app-xkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darscan/node-app-xkg/issues"
+  },
+  "homepage": "https://github.com/darscan/node-app-xkg#readme",
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
+}
