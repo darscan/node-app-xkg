@@ -16,5 +16,7 @@
     "url": "https://github.com/darscan/node-app-xkg/issues"
   },
   "homepage": "https://github.com/darscan/node-app-xkg#readme",
-  "dependencies": {}
+  "dependencies": {
+    "lodash": "4.0.0"
+  }
 }
